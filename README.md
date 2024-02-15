@@ -3,11 +3,13 @@ I'm a newbie Backend Developer, i started my first code project in 2021. Actuall
 <br/>Next.JS and some Backend JavaScript and Java libraries.
 
 #### 💻 Tech Stack:
-[<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=blue" />](https://docs.oracle.com/en/java/)
-[<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/)
+[<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />](https://docs.oracle.com/en/java/)
+[<img src="https://img.shields.io/badge/javascript-%DEB719.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://kazaney.pl)
+[<img src="https://img.shields.io/badge/discord.js-%234285F4.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com)
+[<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/) <br/>
 [<img src="https://img.shields.io/badge/bukkit%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
 [<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/)
-[<img src="https://img.shields.io/badge/nextjs-%1AB837.svg?&style=for-the-badge&logo=next.js&logoColor=green" />](https://www.vercel.app/)
+[<img src="https://img.shields.io/badge/nextjs-%1AB837.svg?&style=for-the-badge&logo=next.js&logoColor=white" />](https://www.vercel.app/)
 [<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 
 #### 🔨 What i use:
