@@ -1,5 +1,5 @@
 #### 🎓 Some informations about me:
-I'm a newbie Backend Developer, i started my first code project in 2021. Actually i learning Java, 
+I'm a newbie Fullstack Developer, i started my first code project in 2021. Actually i learning Java, 
 <br/>Next.JS and some Backend JavaScript and Java libraries.
 
 #### 💻 Tech Stack:
