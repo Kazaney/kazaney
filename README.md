@@ -5,6 +5,7 @@ I'm a newbie Fullstack Developer, i started my first code project in 2021. Actua
 #### 💻 Tech Stack:
 [<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />](https://docs.oracle.com/en/java/)
 [<img src="https://img.shields.io/badge/javascript-%DEB719.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://kazaney.pl)
+[<img src="https://img.shields.io/badge/typescript-%23DB1F29.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://kazaney.pl)
 [<img src="https://img.shields.io/badge/discord.js-%234285F4.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com)
 [<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/) <br/>
 [<img src="https://img.shields.io/badge/bukkit%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
