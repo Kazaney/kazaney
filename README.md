@@ -1,7 +1,3 @@
-#### 🎓 Some informations about me:
-I'm a newbie Fullstack Developer, i started my first code project in 2021. Actually i learning Java, 
-<br/>Next.JS and some Backend JavaScript and Java libraries.
-
 #### 💻 Tech Stack:
 [<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />](https://docs.oracle.com/en/java/)
 [<img src="https://img.shields.io/badge/javascript-%DEB719.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://kazaney.pl)
