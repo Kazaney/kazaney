@@ -2,15 +2,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazaney&size_weight=0.5&count_weight=0.5&theme=white#gh-light-mode-only)
 
 ## 💻 Tech Stack:
-[<img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />](https://docs.oracle.com/en/java/)
-[<img src="https://img.shields.io/badge/javascript-%DEB719.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://kazaney.pl)
-[<img src="https://img.shields.io/badge/typescript-%23DB1F29.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](https://kazaney.pl)
-[<img src="https://img.shields.io/badge/discord.js-%234285F4.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com)
-[<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/) <br/>
-[<img src="https://img.shields.io/badge/bukkit%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
-[<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/)
-[<img src="https://img.shields.io/badge/nextjs-%1AB837.svg?&style=for-the-badge&logo=next.js&logoColor=white" />](https://www.vercel.app/)
-[<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![WebStorm](https://img.shields.io/badge/java-143?style=for-the-badge&logo=java&logoColor=white&color=blue)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🔨 What i use:
 [<img src="https://img.shields.io/badge/linux%20-%23A81D33.svg?&style=for-the-badge&logo=linux&logoColor=white" />](https://www.debian.org/index.pl.html)
